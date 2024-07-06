@@ -2,9 +2,11 @@
 
 # React + Redux To-Do
 
- INSTALL reduxjs/toolkit
- INSTALL react-redux
- INSTALL redux-persist
+INSTALL reduxjs/toolkit
+
+INSTALL react-redux
+
+INSTALL redux-persist
 
 Then clone the project 
 
